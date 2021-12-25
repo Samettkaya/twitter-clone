@@ -1,12 +1,12 @@
 # Twitter Clone App For Youtube
 
-Youtube Tutorial Series For This Clone [Twitter Clone](https://youtube.com/playlist?list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ).
+
 
 ## Installation
 
 ```bash
-  git clone https://github.comcodingwithdidem/twitter-clone-app.git
-  cd twitter-clone-app
+  git clone https://github.com/Samettkaya/twitter-clone.git
+  cd twitter-clone
   npm install
   npm start
 ```
