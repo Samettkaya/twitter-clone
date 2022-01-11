@@ -16,14 +16,14 @@ const TweetBox = () => {
   const sendTweet = () => {
     if (content !== "") {
       db.collection("feed").add({
-        displayName: "Melis Yahşi",
-        username: "@Melisyahsii11",
+        displayName: "Samet Kaya",
+        username: "@samet26154049",
         content,
         timestamp: firebase.firestore.FieldValue.serverTimestamp(),
         image:
           "https://64.media.tumblr.com/c9f8bdfb7ae61c3eb8a00e6ac5ca11a4/07dd3f9d137818fd-4f/s540x810/d83025e503bc5955cb004606132a99794b0cfab5.gif",
         avatar:
-          "https://pbs.twimg.com/profile_images/1474708156458717184/XPsEBy_7_bigger.jpg",
+          "https://pbs.twimg.com/profile_images/1263877225893502977/Gy4k70BI_normal.jpg"
       });
 
       setContent("");

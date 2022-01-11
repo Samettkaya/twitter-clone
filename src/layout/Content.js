@@ -24,7 +24,7 @@ const Content = () => {
       </header>
       <div className="flex space-x-4 px-4 py-3">
         <img
-          src="https://pbs.twimg.com/profile_images/1474708156458717184/XPsEBy_7_bigger.jpg"
+             src="https://pbs.twimg.com/profile_images/1263877225893502977/Gy4k70BI_normal.jpg" 
           alt="Profile"
           className="w-11 h-11 rounded-full"
         />
